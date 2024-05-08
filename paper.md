@@ -3,8 +3,8 @@ Aircraft measurement and simulations  of biomass burning aerosols
 over West Africa
 
 # Author
-John Smith
-Sam Belfield
+John Smith, University of Elsewhere
+Sam Belfield, University of Manchester
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
