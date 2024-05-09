@@ -36,3 +36,6 @@ Figures go in their own section in a draft paper.
 We have made fanatastic insight into the BBOA aging process.
 Nevertheless, questions remain unanswered, so we should get some more
 funding.
+
+# Supplementary Files
+Supplementary files that accompany the paper can be found in this section.
